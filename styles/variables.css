@@ -28,12 +28,13 @@
     --content-margin-footer: clamp(34.5px, calc(34.5px + 518 * ((100vw - 375px) / 1065)), 552.5px);
     --dialog-margin-footer: clamp(17px, calc(17px + (543.5 - 17) * ((100vw - 375px) / (1440 - 375))), 543.5px);
     --header-font-size: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
-    --black-color: #000000;
+    --text-color: #000000;
+    --black-fill:#000;
     --background-color: #fff;
     --border-color: #000;
     --text-shadow-color: #fff;
     --text-transition-whcolor: #fff;
-    --accent-color: #fff;
+    --accent-color: #000;
     --contour-color: #000;
     --animation-fill-color: #ff0000;
 }
