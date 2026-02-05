@@ -82,6 +82,7 @@
   gap: 25px;
   margin: 25px 25px;
 }
+
 .section__title {
   font-family: var(--main-font), sans-serif;
   font-size: 18px;
@@ -296,7 +297,6 @@
   transition: fill 0.3s linear 0.06s;
 }
 
-
 .card__icon-button {
   display: flex;
   inline-size: 39px;
@@ -318,7 +318,6 @@
 .card__icon-button:focus-visible {
   border-color: var(--accent-color);
 }
-
 
 .section__footer {
   display: flex;
@@ -388,7 +387,6 @@
 .footer__dialog::backdrop {
   background-color: rgba(0, 0, 0, 0.75);
 }
-
 
 @media (width >= 1440px) {
   .header {
